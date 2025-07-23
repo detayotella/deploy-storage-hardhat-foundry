@@ -1,0 +1,6 @@
+[submodule "storage-deployment/founder/lib/forge-std"]
+	path = storage-deployment/founder/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "storage-deployment/foundry/lib/forge-std"]
+	path = storage-deployment/foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

@@ -1,0 +1,32 @@
+# === Foundry build artifacts ===
+out/
+cache/
+
+# === Dependencies (via forge install) ===
+lib/
+
+# === Environment Variables ===
+.env
+.env.*
+
+# === VSCode and Editor Junk ===
+.vscode/
+*.swp
+*.swo
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Coverage ===
+coverage/
+lcov-report/
+*.lcov
+
+# === Foundry-specific ===
+broadcast/
+
+.git/
